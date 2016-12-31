@@ -13,7 +13,8 @@ awaitRepl({
 ```
 
 ### Options
-await-repl passes options to `repl.start()`  
+await-repl passes options to `repl.start()`
+
 #### Additional options
 - __rejectionHandler__  
   function for formatting Promise-rejections  
