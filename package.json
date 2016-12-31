@@ -1,0 +1,27 @@
+{
+  "name": "await-repl",
+  "version": "1.0.0",
+  "description": "Wrapper for repl faking await functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/skyrising/await-repl.git"
+  },
+  "keywords": [
+    "await",
+    "repl"
+  ],
+  "author": {
+      "name": "Simon Wanner",
+      "email": "skyrising@pvpctutorials.de",
+      "url": "https://pvpctutorials.de"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/skyrising/await-repl/issues"
+  },
+  "homepage": "https://github.com/skyrising/await-repl#readme"
+}
