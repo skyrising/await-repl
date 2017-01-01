@@ -44,7 +44,7 @@ module.exports = (options) => {
     else
       origEval(code, context, file, cb);
   }
-  return t;
+  return r;
 }
 
 class AwaitTimeout extends Error {
