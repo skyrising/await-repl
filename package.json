@@ -1,6 +1,6 @@
 {
   "name": "await-repl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for repl faking await functionality",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,9 @@
     "repl"
   ],
   "author": {
-      "name": "Simon Wanner",
-      "email": "skyrising@pvpctutorials.de",
-      "url": "https://pvpctutorials.de"
+    "name": "Simon Wanner",
+    "email": "skyrising@pvpctutorials.de",
+    "url": "https://pvpctutorials.de"
   },
   "license": "GPL-3.0",
   "bugs": {
