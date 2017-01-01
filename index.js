@@ -1,3 +1,5 @@
+'use strict';
+
 const repl = require('repl');
 
 module.exports = (options) => {
@@ -42,6 +44,7 @@ module.exports = (options) => {
     else
       origEval(code, context, file, cb);
   }
+  return t;
 }
 
 class AwaitTimeout extends Error {
